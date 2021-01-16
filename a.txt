@@ -1,2 +1,3 @@
 #! /bin/bash
 changes a.txt
+test pull
